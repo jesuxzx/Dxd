@@ -1,2 +1,0 @@
-# Dxd
-Jajs
